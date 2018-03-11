@@ -3,5 +3,8 @@ It may have water on it.
 Consider Venus as a base.
 
 Running out of things to say about Mars...
-Blah
+<<<<<<< HEAD
 
+
+This is Galina adding her notes about Mars now
+>>>>>>> 6bd1ee410b45fa805404f96857bc07c1a4700308
