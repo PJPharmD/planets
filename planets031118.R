@@ -6,3 +6,5 @@ print("I don't like talking about planets anymore")
 x+z
 a <- (x+z-y)
 a
+
+x+y
